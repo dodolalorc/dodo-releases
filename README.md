@@ -2,6 +2,7 @@
 
 Dodo 的公开安装包与轻量静态官网。App 源码不在此仓库。
 
+- [Dodo 官网](https://dodolalorc.cn/dodo-releases/)
 - [下载最新 Android 体验版](https://github.com/dodolalorc/dodo-releases/releases/latest/download/dodo.apk)
 - [版本记录](https://github.com/dodolalorc/dodo-releases/releases)
 - iOS 暂未开放下载。
@@ -18,7 +19,7 @@ python3 -m http.server 8080 --directory docs
 
 ## GitHub Pages
 
-网页内容在 `docs/`。准备发布时，在仓库 Settings → Pages 中选择 Deploy from a branch，分支 `main`、目录 `/docs`。默认地址为 https://dodolalorc.github.io/dodo-releases/ （配置自定义域名后以实际设置为准）。仅添加本地文件不会自动启用 Pages。
+网页内容在 `docs/`。GitHub Pages 已配置为 Deploy from a branch，分支 `main`、目录 `/docs`，并开启 HTTPS。网站继承账号的自定义域名，访问地址为 https://dodolalorc.cn/dodo-releases/ 。推送到 `main` 后由 GitHub 自动部署。
 
 APK 与 `update.json` 继续存放在 Releases，不要提交到网页目录。官网使用 latest 下载链接，应用内更新清单仍应指向固定版本 APK，不能修改为 latest。网页未硬编码最新版本号，无需每次发版修改下载按钮。
 
