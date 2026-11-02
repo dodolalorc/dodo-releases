@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Dodo 巧克力甜甜圈</title>
+  <desc id="desc">奶油色背景上，手绘圆环形的金黄甜甜圈覆着波浪边巧克力糖霜，点缀四颗奶油色糖针和一颗粉色糖针。</desc>
+  <rect width="1024" height="1024" fill="#F0ECDF"/>
+  <!-- A slightly asymmetric silhouette keeps the original hand-drawn character. -->
+  <path d="M 503 96 C 655 63 795 139 863 266 C 935 399 940 580 867 722 C 797 860 646 927 494 918 C 338 909 195 832 137 692 C 79 553 106 383 191 258 C 268 145 391 108 503 96 Z" fill="#E8B98C" stroke="#594333" stroke-width="28" stroke-linejoin="round"/>
+  <!-- Broad chocolate scallops remain legible at launcher-icon sizes. -->
+  <path d="M 503 96 C 655 63 795 139 863 266 C 895 326 913 399 913 469 C 882 464 871 505 855 557 C 838 613 816 648 776 652 C 737 657 715 625 686 627 C 649 629 637 691 606 718 C 569 750 526 738 496 705 C 471 678 463 634 435 605 C 407 575 377 558 352 571 C 326 584 315 610 282 616 C 249 622 225 596 205 578 C 181 560 155 573 119 583 C 103 464 134 344 191 258 C 268 145 391 108 503 96 Z" fill="#79543E"/>
+  <!-- Short highlights suggest baked volume without blurred raster texture. -->
+  <path d="M 192 687 C 241 797 354 862 472 874" fill="none" stroke="#F3CEA5" stroke-width="20" stroke-linecap="round"/>
+  <path d="M 214 283 C 283 182 390 144 491 131" fill="none" stroke="#9A745A" stroke-width="14" stroke-linecap="round"/>
+  <!-- The dark inner rim separates icing, baked dough and the open centre. -->
+  <path d="M 484 376 C 548 335 609 356 643 414 C 681 478 661 556 606 597 C 555 635 490 615 460 565 C 423 503 430 418 484 376 Z" fill="#B88459" stroke="#594333" stroke-width="22"/>
+  <path d="M 489 389 C 540 356 596 373 625 423 C 657 476 637 539 593 572 C 549 604 500 587 475 546 C 446 496 445 424 489 389 Z" fill="#F0ECDF"/>
+  <g fill="none" stroke-linecap="round" stroke-width="33">
+    <path d="M 474 219 L 503 175" stroke="#F4D6AF"/>
+    <path d="M 696 275 L 719 232" stroke="#F4D6AF"/>
+    <path d="M 256 417 L 279 374" stroke="#F4D6AF"/>
+    <path d="M 357 298 L 380 270" stroke="#EBC49A"/>
+    <path d="M 790 478 L 811 443" stroke="#D59083"/>
+  </g>
+  <path d="M 503 96 C 655 63 795 139 863 266 C 935 399 940 580 867 722 C 797 860 646 927 494 918 C 338 909 195 832 137 692 C 79 553 106 383 191 258 C 268 145 391 108 503 96 Z" fill="none" stroke="#594333" stroke-width="28" stroke-linejoin="round"/>
+</svg>
